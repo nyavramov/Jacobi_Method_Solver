@@ -13,7 +13,7 @@ command: jacobi 10 0.000001
 
 #define N 100
 #define MAX_ITER 10000
-#define SPECIFIC 1 //Boolean to decide if we generate specific matrix or Prof's random one.
+#define SPECIFIC 0 //Boolean to decide if we generate specific matrix or Prof's random one.
 
 int  jacobi();
 int  convergence();
