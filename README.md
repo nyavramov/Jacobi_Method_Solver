@@ -6,4 +6,5 @@ Solves randomly generated diagonally dominant matrices of NxN size specified by 
 Example use:
 
 Windows: `gcc -w -o hw8 hw8.c && hw8.exe 20 0.000001`
+
 Mac: `gcc -w -o hw8 hw8.c && ./hw8 20 0.000001`
