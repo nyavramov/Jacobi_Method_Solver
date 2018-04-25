@@ -1,5 +1,5 @@
 # Jacobi_Method_Solver
-Solves randomly generated diagonally dominant matrices of NxN size specified by user
+Solves randomly generated diagonally dominant matrices (systems of equations) of NxN size specified by user
 
 <img src="https://i.imgur.com/WLOSJrg.png" width="500"></img>
 
